@@ -1,5 +1,10 @@
 # React + Vite
 
+heres mail and password for trying the code :
+
+mail : dadang@mail.com
+password : dadang
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
