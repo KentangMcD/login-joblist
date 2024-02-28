@@ -10,7 +10,7 @@ import Home from "./components/Home";
 import Header from "./components/Header";
 import JoblistPath from "./page/JobListPath";
 import JobDescription from "./components/JobDescription";
-import Login from "./components/login";
+import Login from "./components/Login";
 import { useEffect, useState } from "react";
 import PrivateRoute from "./components/util/PrivateRoute";
 /* eslint-disable react/no-unescaped-entities */
