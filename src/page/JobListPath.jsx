@@ -1,7 +1,7 @@
 import React from "react";
 import { jsonData } from "../data/data";
 import { useState } from "react";
-import JobList from "../components/joblist";
+import JobList from "../components/Joblist";
 
 export default function JoblistPath() {
   const [currentPage, setCurrentPage] = useState(1);
