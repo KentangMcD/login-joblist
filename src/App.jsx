@@ -5,7 +5,7 @@ import {
   Routes,
   createBrowserRouter,
 } from "react-router-dom";
-import Home from "./components/home";
+import Home from "./components/Home";
 
 import Header from "./components/Header";
 import JoblistPath from "./page/JobListPath";
